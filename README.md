@@ -1,4 +1,4 @@
-# C++ Learning Journey
+# C++ Learning Journey (Seems like turorial)
 From "Hello World" to Object-Oriented Architecture.
 A comprehensive documentation of my transition from Mechanical Engineering concepts to Software Engineering implementation.
 
